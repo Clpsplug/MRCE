@@ -1,4 +1,4 @@
-﻿# HSP Multi-Resolution Compatibility Extention
+# HSP Multi-Resolution Compatibility Extension
 
 HSPで作られた全画面表示のゲームなどを、複数解像度に簡単に対応させるための拡張です  
 やっていることは非常に簡単で、*描画先のウィンドウを別のウィンドウに退避させ、その描画内容を拡縮する*ことで複数解像度に対応させています。  
